@@ -3,7 +3,7 @@ Repositório elaborado para o desafio de projeto
 
 ## Links Úteis 
 
-#####Links de ajuda sobre comandos do Git
+##### Links de ajuda sobre comandos do Git
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
@@ -13,7 +13,7 @@ Repositório elaborado para o desafio de projeto
 
 [Comandos do Git - link 3](https://www.atlassian.com/br/git/tutorials/git-bash)
 
-####Download 
+##### Download 
 
 [Download Git](https://git-scm.com/download/win)
 
