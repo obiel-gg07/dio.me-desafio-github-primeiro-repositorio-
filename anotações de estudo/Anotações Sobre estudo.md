@@ -8,5 +8,7 @@ Fizemos em um arquivo Markdown no diretório , algumas observações sobre coman
 
 Frisamos que o Diretório é totalmente aberto a interações , complementações , buscando uma maneira de facilitar o nossos estudos e os de quem está começando.
 
-### 
+### Nos vemos no Topo
+
+
 
